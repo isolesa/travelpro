@@ -1,0 +1,10 @@
+<rss version="2.0">
+    <language>sr</language>
+    <channel>
+        <item>
+            <title>Najnovije</title>
+            <link>https://isolesa.github.io/travelpro/</link>
+            <description>Pogledajte naše najnovije ponude!</description>
+        </item>
+    </channel>
+</rss>
