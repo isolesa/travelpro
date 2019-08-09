@@ -624,6 +624,11 @@ html,body{
     font-size:17px;
 }
 
+#copyright a{
+    text-decoration:none;
+    color: #FFFFFF;
+}
+
 /* media queries */
 @media (min-width:2000px){
     #authorTitle{
